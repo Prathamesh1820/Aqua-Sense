@@ -151,6 +151,6 @@ to the Slave Arduino, allowing communication and relay tasks to remain independe
 
 # Author
 
-**Prathamesh**
+**Prathamesh Patil**
 
 Developed as a **First-Year Mechanical Engineering Project** to demonstrate embedded systems, sensor integration, GSM communication, automation, and real-time water monitoring using Arduino.
