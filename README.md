@@ -40,18 +40,30 @@ Includes every Version 1 feature plus:
 #  Version Comparison
 
  Feature                                    Version 1          Version 2 
+ 
 
  Water Level Monitoring                         ✅                ✅
+ 
  Water Remaining (%)                            ✅                ✅
+ 
  Water Remaining (Liters)                       ✅                ✅
+
  OLED Display                                   ✅                ✅
+ 
  TDS Monitoring                                 ✅                ✅
+ 
  Boot Animation                                 ✅                ✅
+ 
  GSM SMS Alerts                                 ✅                ✅
+ 
  GSM Call Alerts                                ❌                ✅ 
+ 
  Relay Controlled Pump                          ❌                ✅
+ 
  Dual Arduino System                            ❌                ✅
+ 
  SPDT Notification Switch                       ❌                ✅
+ 
 
 
 #  Hardware Used
