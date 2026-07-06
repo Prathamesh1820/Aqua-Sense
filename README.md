@@ -9,7 +9,7 @@ The project evolved through two versions:
 - **Version 2** – Enhanced with dual Arduino architecture, relay-based pump control, and selectable GSM notification modes.
 
 
-# 🎥 Demo
+# Demo
 
 A demonstration video of **Aqua Sense Version 2** is available in the repository.
 
