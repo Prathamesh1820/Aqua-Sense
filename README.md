@@ -39,7 +39,7 @@ Includes every Version 1 feature plus:
 
 #  Version Comparison
 
- Feature                                    Version 1          Version 2 
+ Feature                                    Version 1             Version 2 
  
 
  Water Level Monitoring                         ✅                ✅
@@ -136,11 +136,16 @@ Version 2 introduces a dual-controller architecture.
 #  Water Quality Classification
 
  TDS (ppm)             Water Quality 
+ 
 
  0 – 150               Excellent
+ 
  151 – 300             Good 
+ 
  301 – 500             Average 
+ 
  Above 500             Poor 
+ 
 
 
 # Author
