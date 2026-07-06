@@ -111,7 +111,7 @@ Arduino source code is available in the `Arduino-Code` folder.
 
 # Author
 
-**Prathamesh**
+**Prathamesh Patil**
 
 Developed as a **First-Year Mechanical Engineering Project** to demonstrate embedded systems, sensor integration, GSM communication, and real-time water monitoring using Arduino.
 
