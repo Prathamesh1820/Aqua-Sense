@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="ChatGPT Image Jul 6, 2026, 11_32_36 AM" src="https://github.com/user-attachments/assets/06859e4f-0e59-47c1-900b-54ca52d53a01" />
+
 **Smart Water Tank Monitoring and Pump Control System using Arduino & GSM**
 **Developed as a First-Year Mechanical Engineering Project**
 
