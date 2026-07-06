@@ -8,10 +8,15 @@ The project evolved through two versions:
 - **Version 1** – Water level and water quality monitoring with SMS alerts.
 - **Version 2** – Enhanced with dual Arduino architecture, relay-based pump control, and selectable GSM notification modes.
 
+#  Configuration
 
+ Before uploading the code to your Arduino, update the following values according to your setup.
+
+   **Note:** The project will not function correctly until these values are configured according to your installation.
+ 
 # Features
 
-## Version 1
+ ## Version 1
 
 -  User-configurable tank height
 -  User-configurable tank capacity
@@ -24,7 +29,7 @@ The project evolved through two versions:
 -  Boot animation
 
 
-## Version 2
+ ## Version 2
 
 Includes every Version 1 feature plus:
 
