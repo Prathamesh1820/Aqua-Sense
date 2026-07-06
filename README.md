@@ -11,12 +11,15 @@ The project evolved through two versions:
 #  Configuration
 
  Before uploading the code to your Arduino, update the following values according to your setup.
+ 
 
  Phone Number : Replace the default phone number with your own mobile number.
  
  Tank Height : Set the height of your water tank (in cm).
  
  Tank Capacity : Set the total capacity of your tank (in liters).
+
+ 
  
 
    **Note:** The project will not function correctly until these values are configured according to your installation.
