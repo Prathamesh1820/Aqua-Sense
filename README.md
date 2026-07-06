@@ -185,11 +185,6 @@ Version 2 introduces a dual-controller architecture.
 Developed as a **First-Year Mechanical Engineering Project** to explore embedded systems, Arduino programming, sensor integration, GSM communication, and automation.
 
 
-## Support
-
-If you found this project interesting, consider giving the repository a ⭐ on GitHub.
-
-
 ## License
 
 This project is shared for educational and learning purposes.
