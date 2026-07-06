@@ -8,6 +8,19 @@ The project evolved through two versions:
 - **Version 1** – Water level and water quality monitoring with SMS alerts.
 - **Version 2** – Enhanced with dual Arduino architecture, relay-based pump control, and selectable GSM notification modes.
 
+
+# 🎥 Demo
+
+A demonstration video of **Aqua Sense Version 2** is available in the repository.
+
+ **Location:**
+
+```
+Version-2/
+└── Demo/
+```
+
+
 #  Configuration
 
  Before uploading the code to your Arduino, update the following values according to your setup.
